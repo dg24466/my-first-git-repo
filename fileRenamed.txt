@@ -2,13 +2,13 @@ First git file !!	--------change 3-------
 
 Its 2018 already !!	--Welcome--
 
-Change - 1:
+Change :-- 1:
 	<html>
 	</html>
 
-Change - 2
+Change :-- 2
 
-Change - 3
+Change :-- 3
 
-Change - 4
+Change :-- 4
 
